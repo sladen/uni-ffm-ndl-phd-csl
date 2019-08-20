@@ -3,14 +3,15 @@
   <info>
     <title>Uni Frankfurt am Main - Neuere Deutsche Literatur - PhD - Koehring 2019 - (note, German)</title>
     <title-short>Koehring PhD (note, German)</title-short>
-    <id>http://www.zotero.org/styles/technische-universitat-dresden-medienwissenschaft-und-neuere-deutsche-literatur-note</id>
-    <link href="http://www.zotero.org/styles/technische-universitat-dresden-medienwissenschaft-und-neuere-deutsche-literatur-note" rel="self"/>
+    <id>http://www.zotero.org/styles/2019-uni-ffm-phd-koehring</id>
+    <link href="http://www.zotero.org/styles/2019-uni-ffm-phd-koehring" rel="self"/>
+    <link href="http://www.zotero.org/styles/unitechnische-universitat-dresden-medienwissenschaft-und-neuere-deutsche-literatur-note" rel="template"/>
     <link href="http://www.zotero.org/styles/technische-universitat-dresden-historische-musikwissenschaft-note" rel="template"/>
     <link href="https://tu-dresden.de/gsw/slk/germanistik/mwndl/ressourcen/dateien/studium/leitfaden_hausarbeiten?lang=de" rel="documentation"/>
     <author>
-      <name>Jens Mittelbach - modified by E.Koehring</name>
-      <uri>http://www.slub-dresden.de</uri>
-      <email>jens.mittelbach@slub-dresden.de</email>
+      <name>Esther Koehring</name>
+      <uri>https://www.uni-frankfurt.de/70589442/koehring</uri>
+      <email>koehring@lingua.uni-frankfurt.de</email>
     </author>
     <category citation-format="note"/>
     <category field="humanities"/>

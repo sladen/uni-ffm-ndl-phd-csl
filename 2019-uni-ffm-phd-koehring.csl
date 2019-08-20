@@ -348,7 +348,6 @@
             <text macro="year-date" prefix="(" suffix=")"/>
           </group>
           <group delimiter=" " prefix=", ">
-            <text term="issue" form="short"/>
             <text variable="issue"/>
           </group>
         </group>

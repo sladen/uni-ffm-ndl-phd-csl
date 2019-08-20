@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize-with="." default-locale="de-DE">
   <info>
-    <title>Technische Universität Dresden - Medienwissenschaft und Neuere Deutsche Literatur (note, German)</title>
-    <title-short>TUD Germanistik (note, German)</title-short>
+    <title>Uni Frankfurt am Main - Neuere Deutsche Literatur - PhD - Koehring 2019 - (note, German)</title>
+    <title-short>Koehring PhD (note, German)</title-short>
     <id>http://www.zotero.org/styles/technische-universitat-dresden-medienwissenschaft-und-neuere-deutsche-literatur-note</id>
     <link href="http://www.zotero.org/styles/technische-universitat-dresden-medienwissenschaft-und-neuere-deutsche-literatur-note" rel="self"/>
     <link href="http://www.zotero.org/styles/technische-universitat-dresden-historische-musikwissenschaft-note" rel="template"/>
     <link href="https://tu-dresden.de/gsw/slk/germanistik/mwndl/ressourcen/dateien/studium/leitfaden_hausarbeiten?lang=de" rel="documentation"/>
     <author>
-      <name>Jens Mittelbach</name>
+      <name>Jens Mittelbach - modified by E.Koehring</name>
       <uri>http://www.slub-dresden.de</uri>
       <email>jens.mittelbach@slub-dresden.de</email>
     </author>
     <category citation-format="note"/>
     <category field="humanities"/>
-    <summary>Zitierstil entsprechend den Vorgaben der Professur für Medienwissenschaft und Neuere Deutsche Literatur, Technische Universität Dresden. Die Vorgaben entsprechen denen der Zeitschrift Die Musikforschung.</summary>
-    <updated>2017-03-31T18:25:46+00:00</updated>
+    <summary>Zitierstil für die Doktorarbeit von Esther Köhring, 2019, basierend auf dem Zitierstil entsprechend den Vorgaben der Professur für Medienwissenschaft und Neuere Deutsche Literatur, Technische Universität Dresden. Die Vorgaben entsprechen denen der Zeitschrift Die Musikforschung.</summary>
+    <updated>2019-08-20T12:00:00+02:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">

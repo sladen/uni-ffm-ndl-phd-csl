@@ -413,6 +413,7 @@
       </else-if>
     </choose>
   </macro>
+<!--
   <macro name="e-resource">
     <group delimiter=": ">
       <choose>
@@ -429,6 +430,7 @@
       </choose>
     </group>
   </macro>
+-->
   <macro name="volume">
     <group delimiter=" " suffix=", ">
       <number suffix=" " variable="number-of-volumes"/>

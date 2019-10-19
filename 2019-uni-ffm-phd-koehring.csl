@@ -316,7 +316,13 @@
         <text variable="publisher-place"/>
       </else>
     </choose>
-    <text variable="publisher" prefix=": "/>
+    <choose>
+      <if match="any" type="book chapter">
+      </if>
+      <else>
+        <text variable="publisher" prefix=": "/>
+      </else>
+    </choose>
   </macro>
   <macro name="issued">
     <choose>

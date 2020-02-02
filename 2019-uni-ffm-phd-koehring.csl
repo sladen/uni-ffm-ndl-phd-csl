@@ -38,7 +38,7 @@
   </locale>
   <macro name="contributors-bib">
     <names variable="author">
-      <name>
+      <name name-as-sort-order="all">
         <name-part name="family"/>
       </name>
       <et-al/>

@@ -535,6 +535,8 @@
       <group>
         <text macro="access" prefix=". "/>
       </group>
+      <!-- for testing/proof reading bibliography vs. metadata -->
+      <text name="title-short"/>
     </layout>
   </bibliography>
 </style>

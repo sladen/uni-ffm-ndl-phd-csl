@@ -16,7 +16,7 @@
     <category citation-format="note"/>
     <category field="humanities"/>
     <summary>Zitierstil für die Doktorarbeit von Esther Köhring, 2019, basierend auf dem Zitierstil entsprechend den Vorgaben der Professur für Medienwissenschaft und Neuere Deutsche Literatur, Technische Universität Dresden. Die Vorgaben entsprechen denen der Zeitschrift Die Musikforschung.</summary>
-    <updated>2020-03-15T22:03:00+02:00</updated>
+    <updated>2020-03-15T22:21:00+02:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -410,8 +410,8 @@
   </macro>
   <macro name="sort-key">
     <text macro="contributors-bib" suffix=" "/>
-    <text macro="title-long" suffix=" "/>
     <text macro="issued"/>
+ <!--   <text macro="title-long" suffix=" "/>-->
   </macro>
   <macro name="year-date">
     <choose>

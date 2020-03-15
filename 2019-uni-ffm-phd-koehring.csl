@@ -16,7 +16,7 @@
     <category citation-format="note"/>
     <category field="humanities"/>
     <summary>Zitierstil für die Doktorarbeit von Esther Köhring, 2019, basierend auf dem Zitierstil entsprechend den Vorgaben der Professur für Medienwissenschaft und Neuere Deutsche Literatur, Technische Universität Dresden. Die Vorgaben entsprechen denen der Zeitschrift Die Musikforschung.</summary>
-    <updated>2020-03-02T00:00:03+02:00</updated>
+    <updated>2020-03-15T21:45:00+02:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">
@@ -88,7 +88,7 @@
                 <name-part name="family"/>
               </name>
               <et-al term="et-al"/>
-              <label form="short" prefix=" (" suffix=")"/>
+              <label form="verb-short" prefix=" (" suffix=")"/>
             </names>
           </if>
         </choose>
@@ -112,7 +112,7 @@
     <choose>
       <if variable="container-author">
         <names variable="container-author">
-          <name delimiter-precedes-last="never" initialize="false" name-as-sort-order="first">
+          <name form="long" delimiter-precedes-last="never" initialize="false" sort-separator=", " delimiter="; ">
             <name-part name="family"/>
           </name>
           <et-al term="et-al"/>
